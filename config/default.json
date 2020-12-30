@@ -1,5 +1,0 @@
-{
-    "mongoURI":"mongodb+srv://akshayA:akshayApwd@devconnect.it7cm.mongodb.net/test?retryWrites=true&w=majority",
-    "jswSecretKey": "mySecretKey",
-    "githubToken" : "c51cdd5c1783bc34a7436315edd93c692b794d6d"
-}
